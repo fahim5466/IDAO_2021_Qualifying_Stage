@@ -1,4 +1,4 @@
-# IDAO_2021_Qualifying_Stage
+# IDAO 2021 Qualifying Stage - Final Submission
 
 ### This is the final submission that gave us our highest score in public LB. Our final score was 418 out of 1000 and we were 13th among the 648 participant teams.
 
